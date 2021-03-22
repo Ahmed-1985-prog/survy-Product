@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: red;
+    background-image: url(photo-1550547660-d9450f859349.jpg);
+}
+
+#survey-form {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #a6f01d;
+    color: #0c0b0b;
+    font-size: 30px;
+    font-style: italic bold;
+}
+
+.row-tab {
+    display: block;
+    padding-top: 20px;
+    font-size: 20px bold;
+}
+
+button {
+    cursor: pointer;
+}
+
+.label-burger {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+}
+
+.input-burger {
+    display: inline-block;
+    width: 48%;
+    text-align: left;
+}
+
+.select-input {
+    display: inline-block;
+    width: 48%;
+    text-align: left;
+}
+
+.label-select {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+}
+
+.labels-radio {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+    vertical-align: top;
+}
+
+.input-radio {
+    display: inline-block;
+    width: 48%;
+    text-align: left;
+}
+
+.checkbox-labels {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+    vertical-align: top;
+}
+
+.checkbox-input {
+    display: inline-block;
+    width: 48%;
+    text-align: left;
+}
